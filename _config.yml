@@ -1,0 +1,3 @@
+mardkown: kramdown
+baseurl: /blog
+exclude: ['README.md']
