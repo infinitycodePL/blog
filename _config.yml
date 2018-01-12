@@ -6,7 +6,7 @@
 title: Infinity Code
 email: lech@infinitycode.io
 description: Teach What You Learn. My journey to becoming a successful Web Developer
-url: https://infinitycodepl.github.io/blog/ # the base hostname & protocol for your site
+url: https://infinitycodepl.github.io/blog # the base hostname & protocol for your site
 keywords: ["Personal blog", "Web Developer", "coding"]
 
 #
