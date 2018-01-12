@@ -13,6 +13,6 @@ I want to give back to the community so if you learn to code, [I list the best r
 <!--more-->
 I use those resources often so I also hope the page will improve my coding performance. Until now, even I have all the links saved in my bookmarks I've still preferred find every page from a google search. If I have the page with all of my important links Boom! One click and I am there!
 
-Fun fact to the end. 48 hours ago I know nothing about Jekyll (the framework the site is built on) but the crazy idea come to my mind. Let's blog about coding! And here we go, 2 days later my blog shows up! Sometimes I am afraid that maybe my “total immersion” approach is too deep :)
+Fun fact. 2 days ago I knew nothing about Jekyll (the framework the site is built on) but the crazy idea came to my mind. Let's blog about coding! And here we go... Sometimes I am afraid that my “total immersion” approach is too deep :)
 
-P.S. I am not native English so very sorry for my any grammar mistake.
+P.S. I am not native English so very sorry for my grammar mistakes.
