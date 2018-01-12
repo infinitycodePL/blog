@@ -1,0 +1,21 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name: Freelancer 
+  link: 
+  date: 2017 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  job: Web Developer
+  
+- name: Google Developer Challenge Scholarship
+  link:
+  date: November 2017 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  job: Scholar
+  
+- name: Search Markting ltd.
+  link: 
+  date: May 2010 - 2017
+  job: Business Owner
+
+- name: Freelance SEO Jobs
+  link: 
+  date: 2007 - 2010
+  job: SEO specialist

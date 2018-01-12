@@ -1,0 +1,26 @@
+.tag-item {
+    a.tag-item-title:hover {
+        text-decoration: underline;
+    }
+}
+
+.source-link {
+    font-size: .8em;
+    a {
+        color: #20c997 !important;
+    }
+}
+
+#page .page-header {
+    margin: 0 auto 30px;
+}
+
+footer {
+    a {
+        color: $info;
+    }
+}
+
+.jobs {
+    color: $primary;
+}

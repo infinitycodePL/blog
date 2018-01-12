@@ -1,0 +1,4 @@
+- name: About me
+  descr: "Bootstrap 4 theme inspired by about.me page's template."
+  image: pong.png
+  github: https://github.com/infinitycodePL/about-me
