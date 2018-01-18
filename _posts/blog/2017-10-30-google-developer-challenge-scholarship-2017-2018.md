@@ -8,7 +8,7 @@ excerpt: "Thank you Google and thank you Udacity for this opportunity!"
 
 Thank you Google and thank you Udacity for this opportunity! I’m incredibly happy about it. I’ll try my best to become awesome.
 
-![image-title-here](img/google-udacity.jpg){:class="img-responsive"}
+![image-title-here](/img/google-udacity.jpg){:class="img-responsive"}
 
 >Congratulations!
 >
