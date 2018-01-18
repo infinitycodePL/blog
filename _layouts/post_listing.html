@@ -34,10 +34,11 @@ layout: default
 
     </header>
 
-    {% if post.excerpt %}
+    {% if post.excerpt != post.content %}
     <div class="post-description">
       <p>
-        {{ post.excerpt }}
+        {{ post.excerpt }} <br />
+         <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
       </p>
     </div>
     {% endif %}

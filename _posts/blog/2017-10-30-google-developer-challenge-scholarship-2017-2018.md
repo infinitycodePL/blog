@@ -3,6 +3,7 @@ layout: post
 title: I have been accepted into the Google Developer Challenge Scholarship
 categories: [blog]
 comments: true
+excerpt: "Thank you Google and thank you Udacity for this opportunity!"
 ---
 
 Thank you Google and thank you Udacity for this opportunity! I’m incredibly happy about it. I’ll try my best to become awesome.
