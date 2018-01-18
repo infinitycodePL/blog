@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My weekly recap 1!
+title: My weekly recap (8-17 January, 2018)
 categories: [blog]
 comments: true
 excerpt: "In this series of posts, I will share what I have learned and what real coding projects I've done in the last week. I hope it helps me to stay efficient and motivated along my programming path."
